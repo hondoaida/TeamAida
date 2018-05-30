@@ -1,0 +1,45 @@
+-kreirati folder "folder150"
+-unutar tog foldera kreirati folder "slike"
+-postaviti sljedece slike u navedeni folder 
+	logo, 
+	naslovna slika (sirine 800px, visine oko 400px)
+	tri ikone dimenzija 128px
+
+-napraviti index.html fajl
+-u tag <head> dodati i definisati klase i cijeli dizaj u navedenom obliku:
+
+	<head>
+		<style type="text/css">
+		.klasa1 {
+			margin: 0 auto;
+			naredba2...
+		}
+		.klasa2 {
+			width: 800px;
+			naredba2....
+		}
+
+	</head>
+
+-dodati tag <div> i u njega smjestiti sav sadrzaj npr: 
+	<body>
+	<div>
+		sav kod ide ovdje, npr
+		<div>gornja linija</div>
+		<img ...> - slika
+		<footer>
+		itd.....
+	</div>
+	</body>
+
+-na navedeni tag primjeniti sljedeci css kako bi sadrzaj bio centriran (width:800px i margin: 0 auto;)
+
+-zatim dodati novi <div> koji predstavlja narandjastu liniju na slici, te dodijeliti mu boju, visinu i sirinu
+-dodati logo sliku
+-dodati liniju <hr>
+-dodati naslovnu sliku
+-dodati naslov i tekst
+-dodati tabelu i unutar tabele 3 ikone i po naslov za svaku
+-dodati kontakt informacije
+
+-kada zavrsite, potrebno je zipovati i poslati na mail: kemal.secic.atia@gmail.com ili ako zelite mozete kod postaviti na vas git i poslati link
